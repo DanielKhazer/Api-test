@@ -1,0 +1,27 @@
+body {
+    background-color: #000080;
+    font-family: system-ui;
+    color: white;
+    text-align: center;
+
+}
+
+input {
+    font-size: 40px;
+  }
+  p, div {
+    color: white;
+    font-size: 15px;
+    font-weight: Times new roman;
+  }
+
+  button {
+    background: red;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: Times new roman;
+    color: white;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+  }
